@@ -1,1 +1,34 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"MauAg1985","title":"Juicios por la Verdad La Plata","description":"El 24 de marzo de 1976, las Fuerzas Armadas argentinas derrocaron a Isabel Perón e instauraron una dictadura militar conocida como el \"Proceso de Reorganización Nacional\", que entre 1976 y 1983 persiguió, secuestró, torturó y asesinó a quienes consideraba subversivos, en violación sistemática de los derechos humanos. Con el regreso de la democracia en 1983, comenzaron las búsquedas de los desaparecidos y de los bebés nacidos en cautiverio, una lucha que continúa hasta hoy. Este proyecto busca proporcionar acceso ético a testimonios de los Juicios por la Verdad (1999-2010), preservados por Memoria Abierta, para fortalecer la memoria y la democracia, reflejando las violaciones a los derechos humanos del pasado reciente en Argentina.","language":"es","slug":"JxVLaPlata","creator":"MauAg1985","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2024-10-07T18:33:08.905Z","updated_at":"2024-10-16T16:05:36.211Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "MauAg1985",
+    "title": "Juicios por la Verdad La Plata",
+    "description": "El 24 de marzo de 1976, las Fuerzas Armadas argentinas derrocaron a Isabel Perón e instauraron una dictadura militar conocida como el \"Proceso de Reorganización Nacional\", que entre 1976 y 1983 persiguió, secuestró, torturó y asesinó a quienes consideraba subversivos, en violación sistemática de los derechos humanos. Con el regreso de la democracia en 1983, comenzaron las búsquedas de los desaparecidos y de los bebés nacidos en cautiverio, una lucha que continúa hasta hoy. Este proyecto busca proporcionar acceso ético a testimonios de los Juicios por la Verdad (1999-2010), preservados por Memoria Abierta, para fortalecer la memoria y la democracia, reflejando las violaciones a los derechos humanos del pasado reciente en Argentina.",
+    "language": "es",
+    "slug": "JxVLaPlata",
+    "creator": "MauAg1985",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-10-07T18:33:08.905Z",
+    "updated_at": "2024-10-16T16:05:36.211Z",
+    "is_private": false,
+    "generate_pages_site": true
+  }
+}
